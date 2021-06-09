@@ -1,6 +1,4 @@
-[Machine Learning Project]  
-Fraud Detection (with SOCAR data)
-========
+# Fraud Detection (with SOCAR data)
 
 ## 0. 요약
 ```
