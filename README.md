@@ -97,17 +97,17 @@ Fraud Detection (with SOCAR data)
 
 
 ## 6. 멤버 & 수행업무
-#### 1) [김도겸](https://github.com/dockyum)
-  * **폴더구조 관리**
-  * **데이터 프로세싱**: EDA, 파이프라인 코드 작성 및 관리, SVMSMOTE,ROS 샘플러 활용한 CV 진행
-  * **발표 및 문서화**: 리드미 수정
-#### 2) [류승환](https://github.com/ryuseunghwan1)
-  * **데이터 프로세싱**: EDA, SMOTE, ADASYN 샘플러 활용한 CV 진행
-  * **발표 및 문서화**: 발표, 리드미 초안 작성
-#### 3) [임현수](https://github.com/EbraLim/)
-  * **일정 관리**: 일자별/멤버별 업무 기획 및 분배
-  * **데이터 프로세싱**: EDA 및 wrong data 발견, borderlineSMOTE 샘플러 활용한 CV 진행
-  * **발표 및 문서화**: 프레젠테이션 자료 작성 및 발표, 리드미 최종본 작성
+#### [김도겸](https://github.com/dockyum)
+  * 폴더구조 관리
+  * 데이터 프로세싱 : EDA, 파이프라인 코드 작성 및 관리, SVMSMOTE,ROS 샘플러 활용한 CV 진행
+  * 발표 및 문서화 : 리드미 결론 수정
+#### [류승환](https://github.com/ryuseunghwan1)
+  * 데이터 프로세싱 : EDA, SMOTE, ADASYN 샘플러 활용한 CV 진행
+  * 발표 및 문서화 : 발표, 리드미 초안 작성
+#### [임현수](https://github.com/EbraLim/)
+  * 일정 관리 : 일자별/멤버별 업무 기획 및 분배
+  * 데이터 프로세싱 : EDA 및 wrong data 발견, borderlineSMOTE 샘플러 활용한 CV 진행
+  * 발표 및 문서화 : 프레젠테이션 자료 작성 및 발표, 리드미 최종본 작성
 
 ----
 
