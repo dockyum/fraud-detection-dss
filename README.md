@@ -6,8 +6,7 @@
     - 자동차 보험 사기 탐지 모델을 통해 보험 사기 가능성이 있는 사고를 필터링
     - 보험 사기를 판단하기 위한 실사 대상 건수를 줄이는 효과가 있을 것으로 기대
 2) 프로젝트 결과
-    - 가장 적합한 모델은 RandomForest로 recall 0.71, accuracy 0.81, precision 0.009, auc 0.77 (test score기준)
-        -> 실제 활용을 위해선 precision의 향상 필요
+    - 최적의 모델은 RandomForest로 recall 0.71, accuracy 0.81, precision 0.009, auc 0.77 (test score기준)
 ```
 
 ## 1. 소개
